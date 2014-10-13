@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Skole\Apps\ClockMeUp\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+437173021.index
